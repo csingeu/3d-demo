@@ -1,0 +1,25 @@
+1. Download Cesium.js
+wget http://cesiumjs.org/releases/Cesium-1.12.zip
+
+
+2. Unzip Cesium.js 
+unzip Cesium-1.12.zip
+
+
+3. Install NodeJS packages
+npm install
+
+
+4. Run "server.js"
+
+
+5. Download jQuery
+wget http://code.jquery.com/jquery-2.1.4.min.js
+
+
+6. Download Terraformer Core
+wget https://github.com/Esri/Terraformer/releases/download/v1.0.4/terraformer.min.js
+
+
+7. Download ArcGIS Parser
+wget https://github.com/Esri/terraformer-arcgis-parser/releases/download/v1.0.4/terraformer-arcgis-parser-1.0.4.min.js
